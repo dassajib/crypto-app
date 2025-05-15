@@ -1,12 +1,8 @@
-import { Button } from "@mui/material"
+import Index from "./index/Index"
 
 function App() {
 
-  return (
-    <>
-      <Button variant="outlined">Hello React....!</Button>
-    </>
-  )
+  return <Index />
 }
 
 export default App

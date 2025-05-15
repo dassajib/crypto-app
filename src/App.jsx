@@ -1,7 +1,6 @@
 import Index from "./index/Index"
 
 function App() {
-
   return <Index />
 }
 
